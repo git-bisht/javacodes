@@ -1,0 +1,2 @@
+# javacodes
+just simple codes
